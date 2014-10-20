@@ -20,7 +20,7 @@ import glob
 import argparse
 
 
-default_packageList = """lars_1.2.tar.gz, glmnet_1.9-8.tar.gz,grid_3.1.0.tar.gz, lattice_0.20-29.tar.gz,
+default_packageList = """statmod_any.tar.gz, lars_1.2.tar.gz, glmnet_1.9-8.tar.gz,grid_3.1.0.tar.gz, lattice_0.20-29.tar.gz,
 getopt_1.20.0.tar.gz,BiocGenerics_0.6.0.tar.gz,IRanges_1.18.2.tar.gz,GenomicRanges_1.12.4.tar.gz,Rcpp_0.10.4.tar.gz,
 limma_any.tar.gz,edgeR_any.tar.gz,RcppArmadillo_0.3.900.0.tar.gz,locfit_1.5-9.1.tar.gz,Biobase_2.20.1.tar.gz,
 DBI_0.2-7.tar.gz,RSQLite_0.11.4.tar.gz,AnnotationDbi_1.22.6.tar.gz,ggplot2,reshape2,xtable_1.7-1.tar.gz,
