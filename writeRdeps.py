@@ -26,7 +26,7 @@ limma_any.tar.gz,edgeR_any.tar.gz,RcppArmadillo_0.3.900.0.tar.gz,locfit_1.5-9.1.
 DBI_0.2-7.tar.gz,RSQLite_0.11.4.tar.gz,AnnotationDbi_1.22.6.tar.gz,ggplot2,reshape2,xtable_1.7-1.tar.gz,
 XML_3.98-1.1.tar.gz,annotate_1.38.0.tar.gz,genefilter_1.42.0.tar.gz,RColorBrewer_1.0-5.tar.gz,DESeq2_1.0.18.tar.gz,
 rjson_0.2.13.tar.gz,scales_any, plyr_any, stringr_any, digest_any, gtable_any, proto_any, XVector_any, geneplotter_any,
-GenomeInfoDB_any.tar.gz
+GenomeInfoDb_any.tar.gz,munsell_any.tar.gz,dichromat_any.tar.gz,labeling_any.tar.gz
 """
 ### NOTE the actual version numbers are ignored - these were snarfed from one of Bjorn's tools - deseq2 I think :)
 
