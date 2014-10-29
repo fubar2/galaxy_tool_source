@@ -25,7 +25,7 @@ getopt_1.20.0.tar.gz,BiocGenerics_0.6.0.tar.gz,IRanges_1.18.2.tar.gz,GenomicRang
 limma_any.tar.gz,edgeR_any.tar.gz,RcppArmadillo_0.3.900.0.tar.gz,locfit_1.5-9.1.tar.gz,Biobase_2.20.1.tar.gz,
 DBI_0.2-7.tar.gz,RSQLite_0.11.4.tar.gz,AnnotationDbi_1.22.6.tar.gz,ggplot2,reshape2,xtable_1.7-1.tar.gz,
 XML_3.98-1.1.tar.gz,annotate_1.38.0.tar.gz,genefilter_1.42.0.tar.gz,RColorBrewer_1.0-5.tar.gz,DESeq2_1.0.18.tar.gz,
-rjson_0.2.13.tar.gz,e1071_any.tar.gz,caret_any_tar.gz,pRoc_any_tar.gz,pracma_any_tar.gz,Hmisc_any_tar.gz"""
+rjson_0.2.13.tar.gz,e1071_any.tar.gz,caret_any_tar.gz,pROC_any_tar.gz,pracma_any_tar.gz,Hmisc_any_tar.gz"""
 
 ### NOTE the actual version numbers are ignored - these were snarfed from one of Bjorn's tools - deseq2 I think :)
 
