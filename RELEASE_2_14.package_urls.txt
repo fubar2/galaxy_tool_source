@@ -1088,7 +1088,7 @@ http://cran.rstudio.com/src/contrib/BOIN_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/BRugs_0.8-3.tar.gz
 http://cran.rstudio.com/src/contrib/BSDA_1.01.tar.gz
 http://cran.rstudio.com/src/contrib/BSGW_0.9.tar.gz
-http://cran.rstudio.com/src/contrib/BSSasymp_1.0-2.tar.gz
+http://cran.rstudio.com/src/contrib/BSSasymp_1.1-0.tar.gz
 http://cran.rstudio.com/src/contrib/BSagri_0.1-8.tar.gz
 http://cran.rstudio.com/src/contrib/BSquare_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/BTSPAS_2014.0901.tar.gz
@@ -1112,6 +1112,7 @@ http://cran.rstudio.com/src/contrib/BayesGESM_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/BayesLCA_1.5.tar.gz
 http://cran.rstudio.com/src/contrib/BayesLogit_0.5.1.tar.gz
 http://cran.rstudio.com/src/contrib/BayesMed_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/BayesMixSurv_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/BayesNI_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/BayesPen_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/BayesSAE_1.0-1.tar.gz
@@ -1133,7 +1134,7 @@ http://cran.rstudio.com/src/contrib/BerlinData_1.0.0.tar.gz
 http://cran.rstudio.com/src/contrib/Bessel_0.5-5.tar.gz
 http://cran.rstudio.com/src/contrib/Bhat_0.9-10.tar.gz
 http://cran.rstudio.com/src/contrib/BiDimRegression_1.0.6.tar.gz
-http://cran.rstudio.com/src/contrib/BiSEp_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/BiSEp_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/BiasedUrn_1.06.1.tar.gz
 http://cran.rstudio.com/src/contrib/BigTSP_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/BinNor_2.0.tar.gz
@@ -1169,7 +1170,7 @@ http://cran.rstudio.com/src/contrib/C50_0.1.0-19.tar.gz
 http://cran.rstudio.com/src/contrib/CADFtest_0.3-2.tar.gz
 http://cran.rstudio.com/src/contrib/CALIBERrfimpute_0.1-6.tar.gz
 http://cran.rstudio.com/src/contrib/CALINE3_1.0-2.tar.gz
-http://cran.rstudio.com/src/contrib/CAMAN_0.71.tar.gz
+http://cran.rstudio.com/src/contrib/CAMAN_0.72.tar.gz
 http://cran.rstudio.com/src/contrib/CARBayesST_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/CARBayes_3.0.tar.gz
 http://cran.rstudio.com/src/contrib/CARE1_1.1.0.tar.gz
@@ -1240,6 +1241,7 @@ http://cran.rstudio.com/src/contrib/CaDENCE_1.2.1.tar.gz
 http://cran.rstudio.com/src/contrib/Cairo_1.5-6.tar.gz
 http://cran.rstudio.com/src/contrib/CarletonStats_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/CatDyn_1.0-5.tar.gz
+http://cran.rstudio.com/src/contrib/CateSelection_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/CausalGAM_0.1-3.tar.gz
 http://cran.rstudio.com/src/contrib/Causata_4.2-0.tar.gz
 http://cran.rstudio.com/src/contrib/CePa_0.5.tar.gz
@@ -1306,13 +1308,13 @@ http://cran.rstudio.com/src/contrib/DAAGbio_0.62.tar.gz
 http://cran.rstudio.com/src/contrib/DAAGxtras_0.8-4.tar.gz
 http://cran.rstudio.com/src/contrib/DAGGER_1.4.tar.gz
 http://cran.rstudio.com/src/contrib/DAKS_2.1-2.tar.gz
-http://cran.rstudio.com/src/contrib/DALY_1.3.0.tar.gz
+http://cran.rstudio.com/src/contrib/DALY_1.4.0.tar.gz
 http://cran.rstudio.com/src/contrib/DAMisc_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/DATforDCEMRI_0.55.tar.gz
 http://cran.rstudio.com/src/contrib/DBFTest_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/DBGSA_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/DBI_0.3.1.tar.gz
-http://cran.rstudio.com/src/contrib/DBKGrad_1.5.tar.gz
+http://cran.rstudio.com/src/contrib/DBKGrad_1.6.tar.gz
 http://cran.rstudio.com/src/contrib/DCGL_2.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/DCL_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/DCluster_0.2-6.tar.gz
@@ -1445,7 +1447,7 @@ http://cran.rstudio.com/src/contrib/EasyMARK_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/EasyStrata_8.6.tar.gz
 http://cran.rstudio.com/src/contrib/EbayesThresh_1.3.2.tar.gz
 http://cran.rstudio.com/src/contrib/Ecdat_0.2-7.tar.gz
-http://cran.rstudio.com/src/contrib/Ecfun_0.1-0.tar.gz
+http://cran.rstudio.com/src/contrib/Ecfun_0.1-2.tar.gz
 http://cran.rstudio.com/src/contrib/EcoHydRology_0.4.12.tar.gz
 http://cran.rstudio.com/src/contrib/EcoTroph_1.6.tar.gz
 http://cran.rstudio.com/src/contrib/EcoVirtual_0.1.tar.gz
@@ -1483,7 +1485,7 @@ http://cran.rstudio.com/src/contrib/ExtDist_0.3.7.tar.gz
 http://cran.rstudio.com/src/contrib/ExtremeBounds_0.1.4.1.tar.gz
 http://cran.rstudio.com/src/contrib/FADA_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/FAMT_2.5.tar.gz
-http://cran.rstudio.com/src/contrib/FAOSTAT_1.6.tar.gz
+http://cran.rstudio.com/src/contrib/FAOSTAT_1.9.tar.gz
 http://cran.rstudio.com/src/contrib/FAdist_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/FAiR_0.4-15.tar.gz
 http://cran.rstudio.com/src/contrib/FAwR_1.0.1.tar.gz
@@ -1516,7 +1518,7 @@ http://cran.rstudio.com/src/contrib/FRB_1.8.tar.gz
 http://cran.rstudio.com/src/contrib/FRCC_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/FREQ_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/FRESA.CAD_1.0.tar.gz
-http://cran.rstudio.com/src/contrib/FSelector_0.19.tar.gz
+http://cran.rstudio.com/src/contrib/FSelector_0.20.tar.gz
 http://cran.rstudio.com/src/contrib/FTICRMS_0.8.tar.gz
 http://cran.rstudio.com/src/contrib/FWDselect_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/FacPad_3.0.tar.gz
@@ -1693,8 +1695,6 @@ http://cran.rstudio.com/src/contrib/HMMpa_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/HMPTrees_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/HMP_1.3.1.tar.gz
 http://cran.rstudio.com/src/contrib/HMR_0.3.1.tar.gz
-http://cran.rstudio.com/src/contrib/HPO.db_1.2.tar.gz
-http://cran.rstudio.com/src/contrib/HPOSim_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/HPbayes_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/HSAUR2_1.1-11.tar.gz
 http://cran.rstudio.com/src/contrib/HSAUR3_1.0-2.tar.gz
@@ -1718,6 +1718,7 @@ http://cran.rstudio.com/src/contrib/HaploSim_1.8.4.tar.gz
 http://cran.rstudio.com/src/contrib/HardyWeinberg_1.5.4.tar.gz
 http://cran.rstudio.com/src/contrib/HiClimR_1.1.4.tar.gz
 http://cran.rstudio.com/src/contrib/HiCseg_1.1.tar.gz
+http://cran.rstudio.com/src/contrib/HiDimDA_0.2-2.tar.gz
 http://cran.rstudio.com/src/contrib/HiDimMaxStable_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/HiLMM_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/HiPLARM_0.1.tar.gz
@@ -1779,13 +1780,13 @@ http://cran.rstudio.com/src/contrib/InteractiveIGraph_1.0.6.1.tar.gz
 http://cran.rstudio.com/src/contrib/Interpol.T_2.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/Interpol_1.3.1.tar.gz
 http://cran.rstudio.com/src/contrib/InventorymodelPackage_1.0.2.tar.gz
-http://cran.rstudio.com/src/contrib/IsingFit_0.2.0.tar.gz
+http://cran.rstudio.com/src/contrib/IsingFit_0.3.0.tar.gz
 http://cran.rstudio.com/src/contrib/IsingSampler_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/IsoCI_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/IsoGene_1.0-22.tar.gz
 http://cran.rstudio.com/src/contrib/Iso_0.0-15.tar.gz
 http://cran.rstudio.com/src/contrib/IsotopeR_0.4.7.tar.gz
-http://cran.rstudio.com/src/contrib/JADE_1.9-91.tar.gz
+http://cran.rstudio.com/src/contrib/JADE_1.9-92.tar.gz
 http://cran.rstudio.com/src/contrib/JAGUAR_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/JASPAR_0.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/JBTools_0.7.2.6.tar.gz
@@ -1885,7 +1886,7 @@ http://cran.rstudio.com/src/contrib/LowRankQP_1.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/Luminescence_0.3.4.tar.gz
 http://cran.rstudio.com/src/contrib/M3_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/MADAM_1.2.2.tar.gz
-http://cran.rstudio.com/src/contrib/MAINT.Data_0.2.tar.gz
+http://cran.rstudio.com/src/contrib/MAINT.Data_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/MALDIquantForeign_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/MALDIquant_1.11.tar.gz
 http://cran.rstudio.com/src/contrib/MAMA_2.2.1.tar.gz
@@ -1967,7 +1968,7 @@ http://cran.rstudio.com/src/contrib/MPTinR_1.6.3.tar.gz
 http://cran.rstudio.com/src/contrib/MPV_1.35.tar.gz
 http://cran.rstudio.com/src/contrib/MRCE_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/MRCV_0.3-3.tar.gz
-http://cran.rstudio.com/src/contrib/MRH_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/MRH_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/MRMR_0.1.3.tar.gz
 http://cran.rstudio.com/src/contrib/MRsurv_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/MRwarping_1.0.tar.gz
@@ -2022,6 +2023,7 @@ http://cran.rstudio.com/src/contrib/Meth27QC_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/MethComp_1.22.tar.gz
 http://cran.rstudio.com/src/contrib/Methplot_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/Metrics_0.1.1.tar.gz
+http://cran.rstudio.com/src/contrib/MfUSampler_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/MiClip_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/MiST_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/MicSim_1.0.6.tar.gz
@@ -2160,11 +2162,13 @@ http://cran.rstudio.com/src/contrib/Orphaned/
 http://cran.rstudio.com/src/contrib/OutbreakTools_0.1-11.tar.gz
 http://cran.rstudio.com/src/contrib/OutlierDC_0.3-0.tar.gz
 http://cran.rstudio.com/src/contrib/OutlierDM_1.0-0.tar.gz
+http://cran.rstudio.com/src/contrib/P2C2M_0.5.tar.gz
 http://cran.rstudio.com/src/contrib/PACKAGES
 http://cran.rstudio.com/src/contrib/PACKAGES.gz
 http://cran.rstudio.com/src/contrib/PACKAGES.in
 http://cran.rstudio.com/src/contrib/PAGI_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/PAGWAS_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/PANICr_0.0.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/PASWR_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/PAS_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/PAWL_0.5.tar.gz
@@ -2190,6 +2194,7 @@ http://cran.rstudio.com/src/contrib/PERregress_1.0-8.tar.gz
 http://cran.rstudio.com/src/contrib/PET_0.4.9.tar.gz
 http://cran.rstudio.com/src/contrib/PF_9.5.tar.gz
 http://cran.rstudio.com/src/contrib/PGM2_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/PHENIX_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/PHeval_0.5.1.tar.gz
 http://cran.rstudio.com/src/contrib/PIGE_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/PIGShift_1.0.0.tar.gz
@@ -2263,7 +2268,7 @@ http://cran.rstudio.com/src/contrib/PolynomF_0.94.tar.gz
 http://cran.rstudio.com/src/contrib/Pomic_1.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/PopED_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/PopGenKit_1.0.tar.gz
-http://cran.rstudio.com/src/contrib/PopGenReport_2.0.tar.gz
+http://cran.rstudio.com/src/contrib/PopGenReport_2.1.tar.gz
 http://cran.rstudio.com/src/contrib/PopGenome_2.0.9.tar.gz
 http://cran.rstudio.com/src/contrib/PortRisk_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/PottsUtils_0.3-2.tar.gz
@@ -2377,7 +2382,7 @@ http://cran.rstudio.com/src/contrib/RFOC_3.3-3.tar.gz
 http://cran.rstudio.com/src/contrib/RFinanceYJ_0.3.1.tar.gz
 http://cran.rstudio.com/src/contrib/RForcecom_0.7.tar.gz
 http://cran.rstudio.com/src/contrib/RFreak_0.3-0.tar.gz
-http://cran.rstudio.com/src/contrib/RGA_0.1.2.tar.gz
+http://cran.rstudio.com/src/contrib/RGA_0.1.3.tar.gz
 http://cran.rstudio.com/src/contrib/RGCCA_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/RGENERATE_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/RGIFT_0.1-5.tar.gz
@@ -2452,7 +2457,7 @@ http://cran.rstudio.com/src/contrib/RProtoBuf_0.4.1.tar.gz
 http://cran.rstudio.com/src/contrib/RPublica_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/RPushbullet_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/RPyGeo_0.9-3.tar.gz
-http://cran.rstudio.com/src/contrib/RQDA_0.2-6.tar.gz
+http://cran.rstudio.com/src/contrib/RQDA_0.2-7.tar.gz
 http://cran.rstudio.com/src/contrib/RQuantLib_0.3.12.tar.gz
 http://cran.rstudio.com/src/contrib/RRF_1.6.tar.gz
 http://cran.rstudio.com/src/contrib/RRreg_0.1.3.tar.gz
@@ -2468,11 +2473,11 @@ http://cran.rstudio.com/src/contrib/RSNNS_0.4-5.tar.gz
 http://cran.rstudio.com/src/contrib/RSNPset_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/RSQLServer_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/RSQLite.extfuns_0.0.1.tar.gz
-http://cran.rstudio.com/src/contrib/RSQLite_0.11.4.tar.gz
+http://cran.rstudio.com/src/contrib/RSQLite_1.0.0.tar.gz
 http://cran.rstudio.com/src/contrib/RSVGTipsDevice_1.0-4.tar.gz
 http://cran.rstudio.com/src/contrib/RSclient_0.7-2.tar.gz
 http://cran.rstudio.com/src/contrib/RSeed_0.1.31.tar.gz
-http://cran.rstudio.com/src/contrib/RSelenium_1.3.1.tar.gz
+http://cran.rstudio.com/src/contrib/RSelenium_1.3.5.tar.gz
 http://cran.rstudio.com/src/contrib/RSiena_1.1-232.tar.gz
 http://cran.rstudio.com/src/contrib/RSiteCatalyst_1.4.0.tar.gz
 http://cran.rstudio.com/src/contrib/RSocrata_1.5.tar.gz
@@ -2865,7 +2870,7 @@ http://cran.rstudio.com/src/contrib/Sunder_0.0.3.tar.gz
 http://cran.rstudio.com/src/contrib/SunterSampling_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/SuperLearner_2.0-15.tar.gz
 http://cran.rstudio.com/src/contrib/SuppDists_1.1-9.1.tar.gz
-http://cran.rstudio.com/src/contrib/Surrogate_0.1-2.tar.gz
+http://cran.rstudio.com/src/contrib/Surrogate_0.1-3.tar.gz
 http://cran.rstudio.com/src/contrib/SurvRegCensCov_1.3.tar.gz
 http://cran.rstudio.com/src/contrib/Survgini_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/SvyNom_1.0.tar.gz
@@ -2897,7 +2902,7 @@ http://cran.rstudio.com/src/contrib/TH.data_1.0-3.tar.gz
 http://cran.rstudio.com/src/contrib/TIMP_1.11.0.tar.gz
 http://cran.rstudio.com/src/contrib/TInPosition_0.13.6.tar.gz
 http://cran.rstudio.com/src/contrib/TPmsm_1.1.1.tar.gz
-http://cran.rstudio.com/src/contrib/TR8_0.8.tar.gz
+http://cran.rstudio.com/src/contrib/TR8_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/TRAMPR_1.0-7.tar.gz
 http://cran.rstudio.com/src/contrib/TRIANGG_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/TRIANG_1.2.tar.gz
@@ -2910,7 +2915,7 @@ http://cran.rstudio.com/src/contrib/TSP_1.0-9.tar.gz
 http://cran.rstudio.com/src/contrib/TSPostgreSQL_2013.9-1.tar.gz
 http://cran.rstudio.com/src/contrib/TSSQLite_2013.9-1.tar.gz
 http://cran.rstudio.com/src/contrib/TSTutorial_1.2.3.tar.gz
-http://cran.rstudio.com/src/contrib/TSclust_1.2.1.tar.gz
+http://cran.rstudio.com/src/contrib/TSclust_1.2.2.tar.gz
 http://cran.rstudio.com/src/contrib/TScompare_2013.9-1.tar.gz
 http://cran.rstudio.com/src/contrib/TSdata_2013.9-1.tar.gz
 http://cran.rstudio.com/src/contrib/TSdbi_2013.9-1.tar.gz
@@ -2966,7 +2971,7 @@ http://cran.rstudio.com/src/contrib/TukeyC_1.1-5.tar.gz
 http://cran.rstudio.com/src/contrib/TunePareto_2.4.tar.gz
 http://cran.rstudio.com/src/contrib/TurtleGraphics_1.0-5.tar.gz
 http://cran.rstudio.com/src/contrib/TwoCop_1.0.tar.gz
-http://cran.rstudio.com/src/contrib/TwoStepCLogit_1.2.2.tar.gz
+http://cran.rstudio.com/src/contrib/TwoStepCLogit_1.2.3.tar.gz
 http://cran.rstudio.com/src/contrib/UPMASK_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/UScancer_0.1-2.tar.gz
 http://cran.rstudio.com/src/contrib/UScensus2000blkgrp_0.03.tar.gz
@@ -2985,7 +2990,7 @@ http://cran.rstudio.com/src/contrib/VGAMdata_0.9-4.tar.gz
 http://cran.rstudio.com/src/contrib/VHDClassification_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/VIF_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/VIMGUI_0.9.0.tar.gz
-http://cran.rstudio.com/src/contrib/VIM_4.0.0.tar.gz
+http://cran.rstudio.com/src/contrib/VIM_4.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/VLF_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/VLMC_1.4-0.tar.gz
 http://cran.rstudio.com/src/contrib/VNM_1.0.tar.gz
@@ -3017,7 +3022,7 @@ http://cran.rstudio.com/src/contrib/WDI_2.4.tar.gz
 http://cran.rstudio.com/src/contrib/WGCNA_1.41-1.tar.gz
 http://cran.rstudio.com/src/contrib/WMCapacity_0.9.6.6.tar.gz
 http://cran.rstudio.com/src/contrib/WMDB_1.0.tar.gz
-http://cran.rstudio.com/src/contrib/WRS2_0.1-0.tar.gz
+http://cran.rstudio.com/src/contrib/WRS2_0.2-0.tar.gz
 http://cran.rstudio.com/src/contrib/WWGbook_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/Wats_0.2-16.tar.gz
 http://cran.rstudio.com/src/contrib/WaveCD_1.0.tar.gz
@@ -3192,7 +3197,7 @@ http://cran.rstudio.com/src/contrib/astro_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/astrochron_0.3.1.tar.gz
 http://cran.rstudio.com/src/contrib/astrodatR_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/astrolibR_0.1.tar.gz
-http://cran.rstudio.com/src/contrib/astsa_1.2.tar.gz
+http://cran.rstudio.com/src/contrib/astsa_1.3.tar.gz
 http://cran.rstudio.com/src/contrib/asympTest_0.1.3.tar.gz
 http://cran.rstudio.com/src/contrib/asypow_2013.9-1.tar.gz
 http://cran.rstudio.com/src/contrib/atmcmc_1.0.tar.gz
@@ -3258,7 +3263,7 @@ http://cran.rstudio.com/src/contrib/bcv_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/bda_3.2.0-3.tar.gz
 http://cran.rstudio.com/src/contrib/bdoc_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/bdpv_1.1.tar.gz
-http://cran.rstudio.com/src/contrib/bdscale_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/bdscale_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/bdsmatrix_1.3-2.tar.gz
 http://cran.rstudio.com/src/contrib/bdvis_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/bdynsys_1.2.tar.gz
@@ -3322,7 +3327,7 @@ http://cran.rstudio.com/src/contrib/binomlogit_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/binr_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/binseqtest_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/bio.infer_1.3-3.tar.gz
-http://cran.rstudio.com/src/contrib/bio3d_2.1-2.tar.gz
+http://cran.rstudio.com/src/contrib/bio3d_2.1-3.tar.gz
 http://cran.rstudio.com/src/contrib/bioPN_1.2.0.tar.gz
 http://cran.rstudio.com/src/contrib/biom_0.3.12.tar.gz
 http://cran.rstudio.com/src/contrib/biomod2_3.1-48.tar.gz
@@ -3499,7 +3504,8 @@ http://cran.rstudio.com/src/contrib/chipPCR_0.0.8-3.tar.gz
 http://cran.rstudio.com/src/contrib/chngpt_2014.5-29.tar.gz
 http://cran.rstudio.com/src/contrib/choplump_1.0-0.3.tar.gz
 http://cran.rstudio.com/src/contrib/chords_0.90.tar.gz
-http://cran.rstudio.com/src/contrib/choroplethr_1.7.0.tar.gz
+http://cran.rstudio.com/src/contrib/choroplethrMaps_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/choroplethr_2.0.0.tar.gz
 http://cran.rstudio.com/src/contrib/chromoR_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/chron_2.3-45.tar.gz
 http://cran.rstudio.com/src/contrib/cin_0.1.tar.gz
@@ -3975,7 +3981,7 @@ http://cran.rstudio.com/src/contrib/enRich_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/enaR_2.7.tar.gz
 http://cran.rstudio.com/src/contrib/endogMNP_0.2-1.tar.gz
 http://cran.rstudio.com/src/contrib/endorse_1.4.1.tar.gz
-http://cran.rstudio.com/src/contrib/energy_1.6.1.tar.gz
+http://cran.rstudio.com/src/contrib/energy_1.6.2.tar.gz
 http://cran.rstudio.com/src/contrib/english_1.0-1.tar.gz
 http://cran.rstudio.com/src/contrib/enigma_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/enpls_1.0.tar.gz
@@ -4011,7 +4017,7 @@ http://cran.rstudio.com/src/contrib/erpR_0.2.0.tar.gz
 http://cran.rstudio.com/src/contrib/esotericR_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/estout_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/etable_1.2.0.tar.gz
-http://cran.rstudio.com/src/contrib/etasFLP_1.0.3.tar.gz
+http://cran.rstudio.com/src/contrib/etasFLP_1.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/etm_0.6-1.tar.gz
 http://cran.rstudio.com/src/contrib/eulerian_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/evaluate_0.5.5.tar.gz
@@ -4072,7 +4078,7 @@ http://cran.rstudio.com/src/contrib/fExoticOptions_2152.78.tar.gz
 http://cran.rstudio.com/src/contrib/fExpressCertificates_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/fExtremes_3010.81.tar.gz
 http://cran.rstudio.com/src/contrib/fGarch_3010.82.tar.gz
-http://cran.rstudio.com/src/contrib/fICA_1.0-1.tar.gz
+http://cran.rstudio.com/src/contrib/fICA_1.0-2.tar.gz
 http://cran.rstudio.com/src/contrib/fImport_3000.82.tar.gz
 http://cran.rstudio.com/src/contrib/fMultivar_3011.78.tar.gz
 http://cran.rstudio.com/src/contrib/fNonlinear_3010.78.tar.gz
@@ -4464,6 +4470,7 @@ http://cran.rstudio.com/src/contrib/gvcm.cat_1.7.tar.gz
 http://cran.rstudio.com/src/contrib/gvlma_1.0.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/gwerAM_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/gwrr_0.2-1.tar.gz
+http://cran.rstudio.com/src/contrib/h2o_2.8.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/hSDM_1.4.tar.gz
 http://cran.rstudio.com/src/contrib/haarfisz_4.5.tar.gz
 http://cran.rstudio.com/src/contrib/hamlet_0.7.tar.gz
@@ -4507,16 +4514,17 @@ http://cran.rstudio.com/src/contrib/hgam_0.1-2.tar.gz
 http://cran.rstudio.com/src/contrib/hglasso_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/hglm.data_1.0-0.tar.gz
 http://cran.rstudio.com/src/contrib/hglm_2.0-9.tar.gz
-http://cran.rstudio.com/src/contrib/hht_2.1.0.tar.gz
+http://cran.rstudio.com/src/contrib/hht_2.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/hiPOD_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/hiddenf_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/hier.part_1.0-4.tar.gz
 http://cran.rstudio.com/src/contrib/hierNet_1.6.tar.gz
 http://cran.rstudio.com/src/contrib/hierarchicalDS_2.01.tar.gz
 http://cran.rstudio.com/src/contrib/hierfstat_0.04-14.tar.gz
+http://cran.rstudio.com/src/contrib/highD2pop_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/highTtest_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/highlight_0.4.4.tar.gz
-http://cran.rstudio.com/src/contrib/highr_0.3.tar.gz
+http://cran.rstudio.com/src/contrib/highr_0.4.tar.gz
 http://cran.rstudio.com/src/contrib/highriskzone_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/hillmakeR_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/hint_0.1-1.tar.gz
@@ -4546,7 +4554,7 @@ http://cran.rstudio.com/src/contrib/hsphase_2.0.0.tar.gz
 http://cran.rstudio.com/src/contrib/htmltools_0.2.6.tar.gz
 http://cran.rstudio.com/src/contrib/hts_4.4.tar.gz
 http://cran.rstudio.com/src/contrib/httpRequest_0.0.10.tar.gz
-http://cran.rstudio.com/src/contrib/httpuv_1.3.0.tar.gz
+http://cran.rstudio.com/src/contrib/httpuv_1.3.2.tar.gz
 http://cran.rstudio.com/src/contrib/httr_0.5.tar.gz
 http://cran.rstudio.com/src/contrib/huge_1.2.6.tar.gz
 http://cran.rstudio.com/src/contrib/humanFormat_1.0.tar.gz
@@ -4688,7 +4696,7 @@ http://cran.rstudio.com/src/contrib/ivbma_1.05.tar.gz
 http://cran.rstudio.com/src/contrib/ivfixed_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/ivivc_0.2.1.tar.gz
 http://cran.rstudio.com/src/contrib/ivlewbel_1.1.tar.gz
-http://cran.rstudio.com/src/contrib/ivpack_1.1.tar.gz
+http://cran.rstudio.com/src/contrib/ivpack_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/ivprobit_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/jSonarR_1.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/jaatha_2.6.tar.gz
@@ -4730,7 +4738,7 @@ http://cran.rstudio.com/src/contrib/kmi_0.5.1.tar.gz
 http://cran.rstudio.com/src/contrib/kml3d_2.2.tar.gz
 http://cran.rstudio.com/src/contrib/kml_2.2.tar.gz
 http://cran.rstudio.com/src/contrib/kmlcov_1.0.1.tar.gz
-http://cran.rstudio.com/src/contrib/knitcitations_1.0-1.tar.gz
+http://cran.rstudio.com/src/contrib/knitcitations_1.0.4.tar.gz
 http://cran.rstudio.com/src/contrib/knitrBootstrap_0.9.0.tar.gz
 http://cran.rstudio.com/src/contrib/knitr_1.7.tar.gz
 http://cran.rstudio.com/src/contrib/knnGarden_1.0.1.tar.gz
@@ -4772,7 +4780,7 @@ http://cran.rstudio.com/src/contrib/lar_0.1-2.tar.gz
 http://cran.rstudio.com/src/contrib/lars_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/laser_2.4-1.tar.gz
 http://cran.rstudio.com/src/contrib/lasso2_1.2-19.tar.gz
-http://cran.rstudio.com/src/contrib/lassoscore_0.5.tar.gz
+http://cran.rstudio.com/src/contrib/lassoscore_0.6.tar.gz
 http://cran.rstudio.com/src/contrib/lassoshooting_0.1.5-1.tar.gz
 http://cran.rstudio.com/src/contrib/latdiag_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/latentnet_2.5.1.tar.gz
@@ -4798,7 +4806,7 @@ http://cran.rstudio.com/src/contrib/lda_1.3.2.tar.gz
 http://cran.rstudio.com/src/contrib/ldbounds_1.1-1.tar.gz
 http://cran.rstudio.com/src/contrib/ldlasso_3.2.tar.gz
 http://cran.rstudio.com/src/contrib/ldr_1.3.2.tar.gz
-http://cran.rstudio.com/src/contrib/leafletR_0.3-0.tar.gz
+http://cran.rstudio.com/src/contrib/leafletR_0.3-1.tar.gz
 http://cran.rstudio.com/src/contrib/leapp_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/leaps_2.9.tar.gz
 http://cran.rstudio.com/src/contrib/learningr_0.29.tar.gz
@@ -4867,7 +4875,7 @@ http://cran.rstudio.com/src/contrib/locpol_0.6-0.tar.gz
 http://cran.rstudio.com/src/contrib/loe_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/log4r_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/logbin_1.0.tar.gz
-http://cran.rstudio.com/src/contrib/logconPH_1.1.tar.gz
+http://cran.rstudio.com/src/contrib/logconPH_1.3.tar.gz
 http://cran.rstudio.com/src/contrib/logconcens_0.16-4.tar.gz
 http://cran.rstudio.com/src/contrib/logcondens.mode_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/logcondens_2.1.2.tar.gz
@@ -4938,6 +4946,7 @@ http://cran.rstudio.com/src/contrib/mail_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/makeProject_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/malaria.em_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/mallet_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/managelocalrepo_0.1.4.tar.gz
 http://cran.rstudio.com/src/contrib/mapStats_1.17.tar.gz
 http://cran.rstudio.com/src/contrib/mapdata_2.2-3.tar.gz
 http://cran.rstudio.com/src/contrib/mapmisc_1.0.0.tar.gz
@@ -4957,13 +4966,14 @@ http://cran.rstudio.com/src/contrib/marked_1.1.6.tar.gz
 http://cran.rstudio.com/src/contrib/markovchain_0.0.9.5.tar.gz
 http://cran.rstudio.com/src/contrib/marmap_0.8.tar.gz
 http://cran.rstudio.com/src/contrib/marqLevAlg_1.1.tar.gz
+http://cran.rstudio.com/src/contrib/matR_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/mathgraph_0.9-11.tar.gz
 http://cran.rstudio.com/src/contrib/matie_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/matlab_1.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/matpow_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/matrixStats_0.10.3.tar.gz
 http://cran.rstudio.com/src/contrib/matrixcalc_1.0-3.tar.gz
-http://cran.rstudio.com/src/contrib/matrixpls_0.3.0.tar.gz
+http://cran.rstudio.com/src/contrib/matrixpls_0.4.0.tar.gz
 http://cran.rstudio.com/src/contrib/maxLik_1.2-0.tar.gz
 http://cran.rstudio.com/src/contrib/maxent_1.3.3.1.tar.gz
 http://cran.rstudio.com/src/contrib/maxlike_0.1-5.tar.gz
@@ -5480,7 +5490,7 @@ http://cran.rstudio.com/src/contrib/palinsol_0.92.tar.gz
 http://cran.rstudio.com/src/contrib/pamm_0.7.tar.gz
 http://cran.rstudio.com/src/contrib/pamr_1.55.tar.gz
 http://cran.rstudio.com/src/contrib/pan_0.9.tar.gz
-http://cran.rstudio.com/src/contrib/pander_0.3.8.tar.gz
+http://cran.rstudio.com/src/contrib/pander_0.5.0.tar.gz
 http://cran.rstudio.com/src/contrib/panelAR_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/papeR_0.4-0.tar.gz
 http://cran.rstudio.com/src/contrib/parallelMCMCcombine_1.0.tar.gz
@@ -5616,7 +5626,7 @@ http://cran.rstudio.com/src/contrib/picante_1.6-2.tar.gz
 http://cran.rstudio.com/src/contrib/picasso_0.3.0.tar.gz
 http://cran.rstudio.com/src/contrib/pingr_1.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/pipeR_0.5.tar.gz
-http://cran.rstudio.com/src/contrib/pitchRx_1.5.tar.gz
+http://cran.rstudio.com/src/contrib/pitchRx_1.6.tar.gz
 http://cran.rstudio.com/src/contrib/pixmap_0.4-11.tar.gz
 http://cran.rstudio.com/src/contrib/pkgKitten_0.1.2.tar.gz
 http://cran.rstudio.com/src/contrib/pkgmaker_0.22.tar.gz
@@ -5675,7 +5685,7 @@ http://cran.rstudio.com/src/contrib/poistweedie_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/polidata_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/pollstR_1.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/polspline_1.1.9.tar.gz
-http://cran.rstudio.com/src/contrib/polyCub_0.5-0.tar.gz
+http://cran.rstudio.com/src/contrib/polyCub_0.5-1.tar.gz
 http://cran.rstudio.com/src/contrib/polySegratioMM_0.6-3.tar.gz
 http://cran.rstudio.com/src/contrib/polySegratio_0.2-4.tar.gz
 http://cran.rstudio.com/src/contrib/polyaAeppli_2.0.tar.gz
@@ -5713,7 +5723,6 @@ http://cran.rstudio.com/src/contrib/powerr_0.1-3.tar.gz
 http://cran.rstudio.com/src/contrib/ppcor_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/ppiPre_1.5.tar.gz
 http://cran.rstudio.com/src/contrib/ppls_1.6-1.tar.gz
-http://cran.rstudio.com/src/contrib/ppmlasso_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/pps_0.94.tar.gz
 http://cran.rstudio.com/src/contrib/pqantimalarials_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/prLogistic_1.2.tar.gz
@@ -5803,6 +5812,7 @@ http://cran.rstudio.com/src/contrib/qdapDictionaries_1.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/qdapRegex_0.1.2.tar.gz
 http://cran.rstudio.com/src/contrib/qdapTools_1.0.3.tar.gz
 http://cran.rstudio.com/src/contrib/qdap_2.2.0.tar.gz
+http://cran.rstudio.com/src/contrib/qdm_0.1-0.tar.gz
 http://cran.rstudio.com/src/contrib/qgraph_1.2.5.tar.gz
 http://cran.rstudio.com/src/contrib/qgtools_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/qicharts_0.1.0.tar.gz
@@ -5810,7 +5820,7 @@ http://cran.rstudio.com/src/contrib/qiimer_0.9.2.tar.gz
 http://cran.rstudio.com/src/contrib/qlcMatrix_0.9.2.tar.gz
 http://cran.rstudio.com/src/contrib/qlspack_2.2.tar.gz
 http://cran.rstudio.com/src/contrib/qmap_1.0-3.tar.gz
-http://cran.rstudio.com/src/contrib/qmethod_1.1.tar.gz
+http://cran.rstudio.com/src/contrib/qmethod_1.2.2.tar.gz
 http://cran.rstudio.com/src/contrib/qmrparser_0.1.4.tar.gz
 http://cran.rstudio.com/src/contrib/qp_0.3-2.tar.gz
 http://cran.rstudio.com/src/contrib/qpcR_1.4-0.tar.gz
@@ -5903,7 +5913,7 @@ http://cran.rstudio.com/src/contrib/randomizationInference_1.0.2.tar.gz
 http://cran.rstudio.com/src/contrib/randomizeBE_0.3-1.tar.gz
 http://cran.rstudio.com/src/contrib/randtests_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/randtoolbox_1.15.tar.gz
-http://cran.rstudio.com/src/contrib/rangeMapper_0.2-6.tar.gz
+http://cran.rstudio.com/src/contrib/rangeMapper_0.2-8.tar.gz
 http://cran.rstudio.com/src/contrib/rankhazard_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/rappdirs_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/rapport_0.51.tar.gz
@@ -5911,7 +5921,7 @@ http://cran.rstudio.com/src/contrib/rapportools_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/rareGE_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/rareNMtests_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/rasclass_0.2.1.tar.gz
-http://cran.rstudio.com/src/contrib/rasterVis_0.31.tar.gz
+http://cran.rstudio.com/src/contrib/rasterVis_0.32.tar.gz
 http://cran.rstudio.com/src/contrib/raster_2.3-12.tar.gz
 http://cran.rstudio.com/src/contrib/rateratio.test_1.0-2.tar.gz
 http://cran.rstudio.com/src/contrib/raters_1.1.tar.gz
@@ -5939,7 +5949,7 @@ http://cran.rstudio.com/src/contrib/rda_1.0.2-2.tar.gz
 http://cran.rstudio.com/src/contrib/rdatamarket_0.6.4.tar.gz
 http://cran.rstudio.com/src/contrib/rdd_0.56.tar.gz
 http://cran.rstudio.com/src/contrib/rdetools_1.0.tar.gz
-http://cran.rstudio.com/src/contrib/rdrobust_0.61.tar.gz
+http://cran.rstudio.com/src/contrib/rdrobust_0.70.tar.gz
 http://cran.rstudio.com/src/contrib/rdryad_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/readBrukerFlexData_1.8.tar.gz
 http://cran.rstudio.com/src/contrib/readMLData_0.9-6.tar.gz
@@ -5988,7 +5998,7 @@ http://cran.rstudio.com/src/contrib/remix_2.1.tar.gz
 http://cran.rstudio.com/src/contrib/remote_0.3.0.tar.gz
 http://cran.rstudio.com/src/contrib/rentrez_0.3.1.tar.gz
 http://cran.rstudio.com/src/contrib/repfdr_1.1.tar.gz
-http://cran.rstudio.com/src/contrib/replicationInterval_0.1.tar.gz
+http://cran.rstudio.com/src/contrib/replicationInterval_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/replisting
 http://cran.rstudio.com/src/contrib/repmis_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/repolr_2.0.tar.gz
@@ -6031,7 +6041,7 @@ http://cran.rstudio.com/src/contrib/rgenoud_5.7-12.tar.gz
 http://cran.rstudio.com/src/contrib/rgeos_0.3-8.tar.gz
 http://cran.rstudio.com/src/contrib/rgexf_0.14.3.11.tar.gz
 http://cran.rstudio.com/src/contrib/rggobi_2.1.20.tar.gz
-http://cran.rstudio.com/src/contrib/rgl_0.94.1143.tar.gz
+http://cran.rstudio.com/src/contrib/rgl_0.95.1157.tar.gz
 http://cran.rstudio.com/src/contrib/rgp_0.4-1.tar.gz
 http://cran.rstudio.com/src/contrib/rgpui_0.1-1.tar.gz
 http://cran.rstudio.com/src/contrib/rgr_1.1.9.tar.gz
@@ -6054,7 +6064,7 @@ http://cran.rstudio.com/src/contrib/riv_2.0-4.tar.gz
 http://cran.rstudio.com/src/contrib/rivernet_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/riverplot_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/rivervis_0.39.4.tar.gz
-http://cran.rstudio.com/src/contrib/rjags_3-13.tar.gz
+http://cran.rstudio.com/src/contrib/rjags_3-14.tar.gz
 http://cran.rstudio.com/src/contrib/rje_1.9.tar.gz
 http://cran.rstudio.com/src/contrib/rjson_0.2.14.tar.gz
 http://cran.rstudio.com/src/contrib/rjstat_0.2.tar.gz
@@ -6098,13 +6108,13 @@ http://cran.rstudio.com/src/contrib/robustfa_1.0-5.tar.gz
 http://cran.rstudio.com/src/contrib/robustgam_0.1.7.tar.gz
 http://cran.rstudio.com/src/contrib/robustlmm_1.6.tar.gz
 http://cran.rstudio.com/src/contrib/robustloggamma_0.4-28.tar.gz
-http://cran.rstudio.com/src/contrib/robustreg_0.1-5.tar.gz
+http://cran.rstudio.com/src/contrib/robustreg_0.1-7.tar.gz
 http://cran.rstudio.com/src/contrib/robustvarComp_0.1-2.tar.gz
 http://cran.rstudio.com/src/contrib/rocc_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/rockchalk_1.8.86.tar.gz
 http://cran.rstudio.com/src/contrib/rococo_1.1.2.tar.gz
 http://cran.rstudio.com/src/contrib/rootSolve_1.6.5.tar.gz
-http://cran.rstudio.com/src/contrib/ropensecretsapi_1.0.0.tar.gz
+http://cran.rstudio.com/src/contrib/ropensecretsapi_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/ror_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/rorutadis_0.1.3.tar.gz
 http://cran.rstudio.com/src/contrib/rotations_1.2.tar.gz
@@ -6146,6 +6156,7 @@ http://cran.rstudio.com/src/contrib/rsem_0.4.5.tar.gz
 http://cran.rstudio.com/src/contrib/rsgcc_1.0.6.tar.gz
 http://cran.rstudio.com/src/contrib/rsig_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/rsm_2.07.tar.gz
+http://cran.rstudio.com/src/contrib/rsml_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/rsnps_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/rspa_0.1-5.tar.gz
 http://cran.rstudio.com/src/contrib/rspear_0.1-2.tar.gz
@@ -6160,13 +6171,14 @@ http://cran.rstudio.com/src/contrib/rtematres_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/rtf_0.4-11.tar.gz
 http://cran.rstudio.com/src/contrib/rtfbs_0.3.2.tar.gz
 http://cran.rstudio.com/src/contrib/rtiff_1.4.4.tar.gz
-http://cran.rstudio.com/src/contrib/rtkpp_0.8.2.tar.gz
+http://cran.rstudio.com/src/contrib/rtkpp_0.8.3.tar.gz
 http://cran.rstudio.com/src/contrib/rtop_0.3-45.tar.gz
 http://cran.rstudio.com/src/contrib/rts_1.0-3.tar.gz
 http://cran.rstudio.com/src/contrib/rtype_0.1-1.tar.gz
 http://cran.rstudio.com/src/contrib/rucm_0.4.tar.gz
 http://cran.rstudio.com/src/contrib/rugarch_1.3-3.tar.gz
 http://cran.rstudio.com/src/contrib/runjags_1.2.1-0.tar.gz
+http://cran.rstudio.com/src/contrib/ruv_0.9.4.tar.gz
 http://cran.rstudio.com/src/contrib/rvHPDT_3.0.tar.gz
 http://cran.rstudio.com/src/contrib/rvTDT_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/rv_2.3.1.tar.gz
@@ -6194,6 +6206,7 @@ http://cran.rstudio.com/src/contrib/sae_1.0-2.tar.gz
 http://cran.rstudio.com/src/contrib/saemix_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/saery_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/safeBinaryRegression_0.1-3.tar.gz
+http://cran.rstudio.com/src/contrib/safi_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/sampSurf_0.7-2.tar.gz
 http://cran.rstudio.com/src/contrib/sampleSelection_1.0-2.tar.gz
 http://cran.rstudio.com/src/contrib/samplesize4surveys_2.1.0.tar.gz
@@ -6285,7 +6298,7 @@ http://cran.rstudio.com/src/contrib/sensory_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/separationplot_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/seqCBS_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/seqDesign_1.0.2.tar.gz
-http://cran.rstudio.com/src/contrib/seqMeta_1.4.tar.gz
+http://cran.rstudio.com/src/contrib/seqMeta_1.5.tar.gz
 http://cran.rstudio.com/src/contrib/seqPERM_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/seqRFLP_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/seqinr_3.0-7.tar.gz
@@ -6299,6 +6312,7 @@ http://cran.rstudio.com/src/contrib/sesem_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/session_1.0.3.tar.gz
 http://cran.rstudio.com/src/contrib/setRNG_2011.11-2.tar.gz
 http://cran.rstudio.com/src/contrib/sets_1.0-13.tar.gz
+http://cran.rstudio.com/src/contrib/settings_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/setwidth_1.0-3.tar.gz
 http://cran.rstudio.com/src/contrib/severity_2.0.tar.gz
 http://cran.rstudio.com/src/contrib/sfa_1.0-1.tar.gz
@@ -6308,7 +6322,7 @@ http://cran.rstudio.com/src/contrib/sgeostat_1.0-25.tar.gz
 http://cran.rstudio.com/src/contrib/sglOptim_1.0.122.0.tar.gz
 http://cran.rstudio.com/src/contrib/sglasso_1.1-0.tar.gz
 http://cran.rstudio.com/src/contrib/sglr_0.7.tar.gz
-http://cran.rstudio.com/src/contrib/sgof_2.1.tar.gz
+http://cran.rstudio.com/src/contrib/sgof_2.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/sgr_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/shape_1.4.1.tar.gz
 http://cran.rstudio.com/src/contrib/shapefiles_0.7.tar.gz
@@ -6341,7 +6355,7 @@ http://cran.rstudio.com/src/contrib/simFrame_0.5.3.tar.gz
 http://cran.rstudio.com/src/contrib/simMSM_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/simPH_1.2.3.tar.gz
 http://cran.rstudio.com/src/contrib/simSummary_0.1.0.tar.gz
-http://cran.rstudio.com/src/contrib/simTool_1.0.2.tar.gz
+http://cran.rstudio.com/src/contrib/simTool_1.0.3.tar.gz
 http://cran.rstudio.com/src/contrib/simba_0.3-5.tar.gz
 http://cran.rstudio.com/src/contrib/simboot_0.2-5.tar.gz
 http://cran.rstudio.com/src/contrib/simctest_2.4.tar.gz
@@ -6355,7 +6369,7 @@ http://cran.rstudio.com/src/contrib/simsalapar_1.0-4.tar.gz
 http://cran.rstudio.com/src/contrib/simsem_0.5-8.tar.gz
 http://cran.rstudio.com/src/contrib/siplab_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/sirad_2.0-7.tar.gz
-http://cran.rstudio.com/src/contrib/sirt_0.47-36.tar.gz
+http://cran.rstudio.com/src/contrib/sirt_1.0-3.tar.gz
 http://cran.rstudio.com/src/contrib/sisVIVE_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/sitar_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/sitools_1.4.tar.gz
@@ -6367,7 +6381,7 @@ http://cran.rstudio.com/src/contrib/skewt_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/skmeans_0.2-6.tar.gz
 http://cran.rstudio.com/src/contrib/slackr_1.2.tar.gz
 http://cran.rstudio.com/src/contrib/slam_0.1-32.tar.gz
-http://cran.rstudio.com/src/contrib/sld_0.2.1.tar.gz
+http://cran.rstudio.com/src/contrib/sld_0.3.tar.gz
 http://cran.rstudio.com/src/contrib/slfm_0.1.tar.gz
 http://cran.rstudio.com/src/contrib/slp_1.0-3.tar.gz
 http://cran.rstudio.com/src/contrib/sm_2.2-5.4.tar.gz
@@ -6432,7 +6446,7 @@ http://cran.rstudio.com/src/contrib/sotkanet_0.9.03.tar.gz
 http://cran.rstudio.com/src/contrib/soundecology_1.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/source.gist_1.0.0.tar.gz
 http://cran.rstudio.com/src/contrib/sp23design_0.9.tar.gz
-http://cran.rstudio.com/src/contrib/spBayesSurv_1.0.0.tar.gz
+http://cran.rstudio.com/src/contrib/spBayesSurv_1.0.1.tar.gz
 http://cran.rstudio.com/src/contrib/spBayes_0.3-8.tar.gz
 http://cran.rstudio.com/src/contrib/spMC_0.3.4.tar.gz
 http://cran.rstudio.com/src/contrib/spTimer_1.0-3.tar.gz
@@ -6452,7 +6466,7 @@ http://cran.rstudio.com/src/contrib/sparcl_1.0.3.tar.gz
 http://cran.rstudio.com/src/contrib/sparkTable_0.11.0.tar.gz
 http://cran.rstudio.com/src/contrib/spark_1.0.0.tar.gz
 http://cran.rstudio.com/src/contrib/sparktex_0.1.tar.gz
-http://cran.rstudio.com/src/contrib/sparr_0.3-5.tar.gz
+http://cran.rstudio.com/src/contrib/sparr_0.3-6.tar.gz
 http://cran.rstudio.com/src/contrib/sparseBC_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/sparseHessianFD_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/sparseLDA_0.1-6.tar.gz
@@ -6474,7 +6488,7 @@ http://cran.rstudio.com/src/contrib/spatialkernel_0.4-19.tar.gz
 http://cran.rstudio.com/src/contrib/spatialnbda_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/spatialprobit_0.9-10.tar.gz
 http://cran.rstudio.com/src/contrib/spatialsegregation_2.40.tar.gz
-http://cran.rstudio.com/src/contrib/spatstat_1.38-1.tar.gz
+http://cran.rstudio.com/src/contrib/spatstat_1.39-1.tar.gz
 http://cran.rstudio.com/src/contrib/spatsurv_0.9-7.tar.gz
 http://cran.rstudio.com/src/contrib/spc_0.5.0.tar.gz
 http://cran.rstudio.com/src/contrib/spcadjust_0.1-3.tar.gz
@@ -6503,14 +6517,14 @@ http://cran.rstudio.com/src/contrib/spider_1.3-0.tar.gz
 http://cran.rstudio.com/src/contrib/spikeSlabGAM_1.1-7.tar.gz
 http://cran.rstudio.com/src/contrib/spikeslab_1.1.5.tar.gz
 http://cran.rstudio.com/src/contrib/splancs_2.01-36.tar.gz
-http://cran.rstudio.com/src/contrib/splitstackshape_1.4.0.tar.gz
+http://cran.rstudio.com/src/contrib/splitstackshape_1.4.2.tar.gz
 http://cran.rstudio.com/src/contrib/splm_1.1-0.tar.gz
 http://cran.rstudio.com/src/contrib/spls_2.2-1.tar.gz
 http://cran.rstudio.com/src/contrib/splus2R_1.2-0.tar.gz
 http://cran.rstudio.com/src/contrib/splusTimeDate_2.5.0-135.tar.gz
 http://cran.rstudio.com/src/contrib/splusTimeSeries_1.5.0-73.tar.gz
 http://cran.rstudio.com/src/contrib/spnet_0.9.0.1.tar.gz
-http://cran.rstudio.com/src/contrib/spocc_0.2.0.tar.gz
+http://cran.rstudio.com/src/contrib/spocc_0.2.2.tar.gz
 http://cran.rstudio.com/src/contrib/sporm_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/sprint_1.0.7.tar.gz
 http://cran.rstudio.com/src/contrib/sprsmdl_0.1-0.tar.gz
@@ -6519,7 +6533,7 @@ http://cran.rstudio.com/src/contrib/spsurvey_2.6.tar.gz
 http://cran.rstudio.com/src/contrib/spt_1.13-8-8.tar.gz
 http://cran.rstudio.com/src/contrib/sptm_14.10-11.tar.gz
 http://cran.rstudio.com/src/contrib/spuRs_2.0.0.tar.gz
-http://cran.rstudio.com/src/contrib/sqldf_0.4-7.1.tar.gz
+http://cran.rstudio.com/src/contrib/sqldf_0.4-9.tar.gz
 http://cran.rstudio.com/src/contrib/sqliter_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/sqlshare_1.0.3.tar.gz
 http://cran.rstudio.com/src/contrib/sqlutils_1.1.2.tar.gz
@@ -6545,7 +6559,7 @@ http://cran.rstudio.com/src/contrib/stam_0.0-1.tar.gz
 http://cran.rstudio.com/src/contrib/stargazer_5.1.tar.gz
 http://cran.rstudio.com/src/contrib/startupmsg_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/stashR_0.3-5.tar.gz
-http://cran.rstudio.com/src/contrib/statar_0.1.tar.gz
+http://cran.rstudio.com/src/contrib/statar_0.1.1.tar.gz
 http://cran.rstudio.com/src/contrib/statebins_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/statfi_0.9.8.tar.gz
 http://cran.rstudio.com/src/contrib/statmod_1.4.20.tar.gz
@@ -6715,9 +6729,9 @@ http://cran.rstudio.com/src/contrib/tigerstats_0.1.6.tar.gz
 http://cran.rstudio.com/src/contrib/tightClust_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/tikzDevice_0.7.0.tar.gz
 http://cran.rstudio.com/src/contrib/tileHMM_1.0-6.tar.gz
-http://cran.rstudio.com/src/contrib/timeDate_3010.98.tar.gz
+http://cran.rstudio.com/src/contrib/timeDate_3011.99.tar.gz
 http://cran.rstudio.com/src/contrib/timeROC_0.2.tar.gz
-http://cran.rstudio.com/src/contrib/timeSeries_3010.97.tar.gz
+http://cran.rstudio.com/src/contrib/timeSeries_3011.98.tar.gz
 http://cran.rstudio.com/src/contrib/timeit_0.2.1.tar.gz
 http://cran.rstudio.com/src/contrib/timeline_0.9.tar.gz
 http://cran.rstudio.com/src/contrib/timeordered_0.9.7.tar.gz
@@ -6861,7 +6875,7 @@ http://cran.rstudio.com/src/contrib/vcrpart_0.2-1.tar.gz
 http://cran.rstudio.com/src/contrib/vdg_1.0.tar.gz
 http://cran.rstudio.com/src/contrib/vdmR_0.1.0.tar.gz
 http://cran.rstudio.com/src/contrib/vec2dtransf_1.1.tar.gz
-http://cran.rstudio.com/src/contrib/vecsets_1.0.tar.gz
+http://cran.rstudio.com/src/contrib/vecsets_1.1.tar.gz
 http://cran.rstudio.com/src/contrib/vectoptim_0.2.tar.gz
 http://cran.rstudio.com/src/contrib/vegan3d_0.65-0.tar.gz
 http://cran.rstudio.com/src/contrib/vegan_2.0-10.tar.gz
