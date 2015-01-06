@@ -1,7 +1,6 @@
 x
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/survival_2.37-7.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/lars_1.2.tar.gz?raw=true</package>
-<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/lattice_0.20-29.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/latticeExtra_0.6-26.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/Matrix_1.1-4.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/glmnet_1.9-8.tar.gz?raw=true</package>

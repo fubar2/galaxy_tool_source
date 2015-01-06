@@ -17,7 +17,6 @@ pe='?raw=true</package>'
 
 library("pkgDepTools")
 library("Biobase")
-## library("Rgraphviz")
 
 if(require("BiocInstaller")){
   print("BiocInstaller is loaded correctly")
@@ -41,9 +40,11 @@ packageExpand = function(packagelist,fl) {
     s = packagelist[i]
     ls = nchar(s)
     spos = which(substr(fl,1,ls) == s,arr.ind=T)
-    if (length(spos) > 0)
+    lspos = length(spos)
+    if (lspos > 0)
       {
-      fullname = fl[spos]
+      fullname = fl[spos[lspos]] ## take last one
+      ## print.noquote(paste('### spos=',paste(spos,collapse=','),'for',fullname))
       if (grepl('*.gz',fullname)) {
            row = paste(ps,fullname,pe,sep='')
            res = append(res,row)
@@ -52,6 +53,7 @@ packageExpand = function(packagelist,fl) {
     }
   return(res)
 }
+
 getPackages <- function(packs)
   {
   packages <- unlist(tools::package_dependencies(packs, available.packages(),
@@ -72,15 +74,18 @@ packages <- getPackages(lasso_packages)
 # [36] "mvtnorm"      "TH.data"      "sandwich"     "RColorBrewer" "zoo"         
 # install.packages(pkgs=packages,destdir=libdir,lib=libdir, type='source',Ncpus=4, dependencies=T,clean=F, repos=biocinstallRepos())
 download.packages(pkgs=packages,destdir=libdir, type='source',repos=biocinstallRepos())
-flist = list.files(libdir)
+libfiles = list.files(libdir)
+fdet = file.info(libfiles)
+details = fdet[with(fdet, order(as.POSIXct(mtime),decreasing=T)), ]
+flist = rownames(details)
 print.noquote(flist)
 biocUrl <- biocinstallRepos()["BioCsoft"]
 print('making dependency graph - takes a while')
 allDeps <- makeDepGraph(biocinstallRepos(), type="source",keep.builtin=TRUE, dosize=FALSE)
 ## this is a large structure and takes a long time to build
 res = c()
-for (i in c(1:length(packages))) { 
-  package = packages[i]
+for (i in c(1:length(lasso_packages))) { 
+  package = lasso_packages[i]
   io = getInstallOrder(package, allDeps, needed.only=FALSE)
   ares = packageExpand(packagelist=io$packages,fl=flist)
   res = append(res,ares)
@@ -89,6 +94,8 @@ ures = unique(res)
 outR = paste(destdir,'lasso_deps.R',sep='/')
 write.table(ures,file=outR,quote=F,sep='\t',row.names=F)
 print.noquote(ures)
+sessionInfo()
+
 
 
 
