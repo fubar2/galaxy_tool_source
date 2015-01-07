@@ -19,12 +19,12 @@ x
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/acepack_1.3-3.3.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/foreign_0.8-61.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/Hmisc_3.14-6.tar.gz?raw=true</package>
-<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/SparseM_1.05.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/SparseM_1.6.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/quantreg_5.05.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/nlme_3.1-118.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/polspline_1.1.9.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/mvtnorm_1.0-2.tar.gz?raw=true</package>
-<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/TH.data_1.0-5.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/TH.data_1.0-6.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/zoo_1.7-11.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/sandwich_2.3-2.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/multcomp_1.3-8.tar.gz?raw=true</package>
