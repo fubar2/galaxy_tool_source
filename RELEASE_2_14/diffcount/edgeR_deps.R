@@ -7,12 +7,15 @@ x
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/KernSmooth_2.23-13.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/gplots_2.15.0.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/limma_3.22.1.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/edgeR_3.8.5.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/edgeR_deps.R?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/BiocGenerics_0.12.1.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/S4Vectors_0.4.0.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/IRanges_2.0.1.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/GenomeInfoDb_1.2.4.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/XVector_0.6.0.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/GenomicRanges_1.18.3.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/Rcpp_0.11.3.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/RcppArmadillo_0.4.600.0.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/Biobase_2.26.0.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/codetools_0.2-9.tar.gz?raw=true</package>
@@ -35,6 +38,7 @@ x
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/annotate_1.44.0.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/survival_2.37-7.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/genefilter_1.48.1.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/lattice_0.20-29.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/latticeExtra_0.6-26.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/locfit_1.5-9.1.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/diffcount/RColorBrewer_1.1-2.tar.gz?raw=true</package>
