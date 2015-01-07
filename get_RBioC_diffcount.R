@@ -8,7 +8,7 @@
 
 
 destdir = '~/galaxy_tool_source/RELEASE_2_14/diffcount'
-libdir = '~/galaxy_tool_source/RELEASE_2_14'
+libdir = '~/galaxy_tool_source/RELEASE_2_14/diffcount'
 our_packages = c("stringr","gplots","edgeR","DESeq2",'RColorBrewer')
 # these show as attached non-base packages in sessionInfo after running the differential count tool
 ps='<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/'

@@ -9,7 +9,7 @@
 
 
 destdir = '~/galaxy_tool_source/RELEASE_2_14/rglasso'
-libdir = '~/galaxy_tool_source/RELEASE_2_14'
+libdir = '~/galaxy_tool_source/RELEASE_2_14/rglasso'
 lasso_packages = c('survival','lars','glmnet','pec')
 #  <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/Rcpp_0.11.3.tar.gz?raw=true</package>
 ps='<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/'
