@@ -10,7 +10,7 @@
 
 destdir = '~/galaxy_tool_source/RELEASE_2_14/rglasso'
 libdir = '~/galaxy_tool_source/RELEASE_2_14/rglasso'
-lasso_packages = c('survival','lars','glmnet','pec')
+our_packages = c('e1071','caret','pROC','Hmisc','pracma','survival','lars','glmnet','pec')
 #  <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/Rcpp_0.11.3.tar.gz?raw=true</package>
 ps='<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/'
 pe='?raw=true</package>'
@@ -62,7 +62,7 @@ getPackages <- function(packs)
   packages
   }
 
-packages <- getPackages(lasso_packages)
+packages <- getPackages(our_packages)
 # > packages
 # [1] "Survival"     "lars"         "glmnet"       "pec"          "Matrix"      
 # [6] "utils"        "methods"      "graphics"     "grid"         "stats"       
@@ -84,8 +84,8 @@ print('making dependency graph - takes a while')
 allDeps <- makeDepGraph(biocinstallRepos(), type="source",keep.builtin=TRUE, dosize=FALSE)
 ## this is a large structure and takes a long time to build
 res = c()
-for (i in c(1:length(lasso_packages))) { 
-  package = lasso_packages[i]
+for (i in c(1:length(our_packages))) { 
+  package = our_packages[i]
   io = getInstallOrder(package, allDeps, needed.only=FALSE)
   ares = packageExpand(packagelist=io$packages,fl=flist)
   res = append(res,ares)

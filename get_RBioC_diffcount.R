@@ -92,7 +92,7 @@ for (i in c(1:length(our_packages))) {
 ures = unique(res)
 outR = paste(destdir,'edgeR_deps.R',sep='/')
 write.table(ures,file=outR,quote=F,sep='\t',row.names=F)
-print.noquote(ures)
+print.noquote(res)
 sessionInfo()
 
 
