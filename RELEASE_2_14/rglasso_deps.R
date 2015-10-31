@@ -93,3 +93,9 @@ x
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/pec_2.3.7.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/pec_2.4.4.tar.gz?raw=true</package>
 <package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/pec_2.4.7.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/profileModel_0.5-9.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/brglm_0.5-9.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/gtools_3.4.1.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/gtools_3.5.0.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/BradleyTerry2_1.0-5.tar.gz?raw=true</package>
+<package>https://github.com/fubar2/galaxy_tool_source/blob/master/RELEASE_2_14/rglasso/BradleyTerry2_1.0-6.tar.gz?raw=true</package>
